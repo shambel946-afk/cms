@@ -1,0 +1,18 @@
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #f8fafc;
+}
